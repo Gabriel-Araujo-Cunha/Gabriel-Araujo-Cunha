@@ -56,14 +56,10 @@
 
 <p align="center">
   <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-Araujo-Cunha&show_icons=true&theme=tokyonight" 
-  />
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Araujo-Cunha&layout=compact&theme=tokyonight" 
+    src="https://metrics.lecoq.io/Gabriel-Araujo-Cunha?template=classic&languages=1&activity=1&achievements=1&base.indepth=false&base.hireable=false&config.timezone=America/Sao_Paulo"
   />
 </p>
+
 
 
 ---
