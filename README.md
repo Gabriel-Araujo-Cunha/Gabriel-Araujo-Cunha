@@ -52,18 +52,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    src="https://metrics.lecoq.io/Gabriel-Araujo-Cunha?template=classic&languages=1&activity=1&achievements=1&base.indepth=false&base.hireable=false&config.timezone=America/Sao_Paulo"
-  />
-</p>
-
-
-
----
-
 ## 📫 Contato
 
 📧 Email: gabriel.araujo.cunha.2001@gmail.com  
